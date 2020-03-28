@@ -2,3 +2,6 @@
 2 - Ataque dos Clones
 3 - A Vingança dos Sith
 -- Rogue One --
+4 - Uma Nova Esperança
+5 - O Imperio Contra Ataca
+6 - O retorno de Jedi
