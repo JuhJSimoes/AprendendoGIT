@@ -1,5 +1,5 @@
 #Star Wars Repo
 
-![](.\alliance_rebel.jpg)
+![](.\alliance_rebel.png)
 
 Testando para aprender GIT
